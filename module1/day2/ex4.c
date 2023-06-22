@@ -1,3 +1,6 @@
+/*program to find total number of bits set in a given array.
+Say we have a array of 3 elements
+a[3] = {0x1, 0xF4, 0x10001};*/
 #include <stdio.h>
 
 int countSetBits(unsigned int num) {

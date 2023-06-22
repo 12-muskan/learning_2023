@@ -1,3 +1,5 @@
+//Program to find biggest of 2 numbers using if else
+
 #include <stdio.h>
 
 int biggest_if_else(int a, int b) {

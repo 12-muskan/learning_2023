@@ -1,3 +1,4 @@
+//Program to print exponent part of double variable in hexadecimal and binary format.
 #include <stdio.h>
 
 void printExponent(double num) {

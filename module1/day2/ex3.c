@@ -1,3 +1,4 @@
+//Program to sum every alternate elements of a given array starting for element 0
 #include <stdio.h>
 
 int main() {

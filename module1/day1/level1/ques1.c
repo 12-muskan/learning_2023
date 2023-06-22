@@ -1,3 +1,5 @@
+//Program to find biggest of 2 numbers using tenary operator
+
 #include <stdio.h>
 
 int biggest_ternary(int a, int b) {
